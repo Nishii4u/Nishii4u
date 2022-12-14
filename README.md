@@ -9,3 +9,4 @@ Nishii4u/Nishii4u is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![@nishii4u's Holopin board](https://holopin.me/nishii4u)](https://holopin.io/@nishii4u)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
